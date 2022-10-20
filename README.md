@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichalPerek
 - 👀 I’m interested in becoming a front-end developer, ideally for blockchain applications!
-- 🌱 I’m currently learning JavaScript / React / TypeScript / Solidity / HTML / CSS  
-- 💞️ I’m looking to collaborate on training projects & internships 
+- 🌱 I’m currently learning JavaScript / React / Node.js
+- 💞️ I’m looking for a position of Junior Software Engineer
 - 📫 How to reach me: https://www.linkedin.com/in/perekmichal/
